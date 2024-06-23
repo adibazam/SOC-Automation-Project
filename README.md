@@ -22,12 +22,11 @@ Wazuh: Open-source security monitoring for event analysis and compliance managem
 
 -Implement firewall configurations for both Wazzuh & theHive servers.
 
--SSH into our virtual machine and install Wazzuh
+-SSH into our virtual machine and install Wazzuh including all prerequisites
 <img src="https://i.gyazo.com/fc455d8ae843a3129bfb03abe25bccff.png" height="80%" width="80%" alt="tcpdump"/>
 
--SSH into our virtual machine and install theHive
-<img src="https://i.gyazo.com/fc455d8ae843a3129bfb03abe25bccff.png" height="80%" width="80%" alt="tcpdump"/>
-
+-SSH into our virtual machine and install theHive including all prerequisites
+<img src="https://i.gyazo.com/65f36e61e7749936d993d2bde0442e0f.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
