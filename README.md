@@ -1,14 +1,7 @@
 <h1>SOC-Automation-Project</h1>
 
-<h2>Description</h2>
-In this scenario, I'm a security analyst investigating traffic to a website.
-
-I will analyze a network packet capture file that contains traffic data related to a user connecting to an internet site. The ability to filter network traffic using packet sniffers to gather relevant information is an essential skill as a security analyst.
-
-I must filter the data in order to:
-* identify the source and destination IP addresses involved in this web browsing session,
-* examine the protocols that are used when the user makes the connection to the website and
-* analyze some of the data packets to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
+<h2>Objective</h2>
+The objective of this project is to start from nothing to creating a fully integrated SOAR solution incorporating Wazuh & TheHive for case management. 
 <br />
 
 
