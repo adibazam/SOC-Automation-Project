@@ -31,7 +31,7 @@ Wazuh: Open-source security monitoring for event analysis and compliance managem
 Configure all files for Wazzuh and theHive via virtual machine
 
 Once both Wazzuh and theHive have been configured on your server, they should both appear active and running on your host ip address:
-<img src="https://i.gyazo.com/e24d2e164d2e733c8669e254a9c62566.png" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/5f4f0a0941def2c95cc76e27cf79897b.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
