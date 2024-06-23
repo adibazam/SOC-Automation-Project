@@ -10,7 +10,7 @@ The objective of this project is to start from nothing to creating a fully integ
 - <b>wireshark</b> 
 
 <h2>Visual Representation of the SOC Automation Lab Workflow</h2>
-<img src="https://gyazo.com/101d18e496e016840f069d9029aaa1fe" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/101d18e496e016840f069d9029aaa1fe.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
