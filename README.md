@@ -5,6 +5,8 @@ The objective of this project is to start from nothing to creating a fully integ
 In this project I created the SOAR solution via a virtual machine on a cloud service platform called DigitalOcean
 <br />
 
+<h2>Visual Representation of the SOC Automation Lab Workflow</h2>
+<img src="https://i.gyazo.com/101d18e496e016840f069d9029aaa1fe.png" height="80%" width="80%" alt="tcpdump"/>
 
 <h2>Tools Used</h2>
 Windows VM: For ensuring coverage and monitoring in Windows environments.
@@ -19,9 +21,6 @@ Wazuh: Open-source security monitoring for event analysis and compliance managem
 <img src="https://i.gyazo.com/7c2ed0d6f30cd93c356d0c13a3b615bc.png" height="80%" width="80%" alt="tcpdump"/>
 -SSH into virtual machine using cloud provider and installing Wazuh
 
-
-<h2>Visual Representation of the SOC Automation Lab Workflow</h2>
-<img src="https://i.gyazo.com/101d18e496e016840f069d9029aaa1fe.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
