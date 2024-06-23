@@ -19,6 +19,7 @@ Wazuh: Open-source security monitoring for event analysis and compliance managem
 
 -Configure a firewall on a cloud environment
 <img src="https://i.gyazo.com/7c2ed0d6f30cd93c356d0c13a3b615bc.png" height="80%" width="80%" alt="tcpdump"/>
+
 -SSH into virtual machine using cloud provider and installing Wazuh
 
 
