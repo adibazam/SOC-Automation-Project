@@ -2,6 +2,7 @@
 
 <h2>Objective</h2>
 The objective of this project is to start from nothing to creating a fully integrated SOAR solution incorporating Wazuh & TheHive for case management. 
+In this project I created the SOAR solution via a virtual machine on a cloud service platform called DigitalOcean
 <br />
 
 
@@ -12,11 +13,12 @@ Wazuh: Open-source security monitoring for event analysis and compliance managem
 
 - <b>wireshark</b> 
 <h2>Steps</h2>
-Installing and implement a cloud environment
-Build a Wazuh Server
-Configure a firewall on a cloud environment
+-Installing and implementing a cloud environment (Digital Ocean)
+-Configure a firewall on a cloud environment
 <img src="https://i.gyazo.com/7c2ed0d6f30cd93c356d0c13a3b615bc.png" height="80%" width="80%" alt="tcpdump"/>
-Add virtual machine to firewall:
+-SSH into virtual machine using cloud provider and installing Wazuh
+<img src="https://i.gyazo.com/83bec5019879ed71bc8087e37ca32d57.png" height="80%" width="80%" alt="tcpdump"/>
+
 <h2>Visual Representation of the SOC Automation Lab Workflow</h2>
 <img src="https://i.gyazo.com/101d18e496e016840f069d9029aaa1fe.png" height="80%" width="80%" alt="tcpdump"/>
 
