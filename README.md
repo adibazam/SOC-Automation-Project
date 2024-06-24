@@ -34,7 +34,7 @@ Once both Wazzuh and theHive have been configured on your server, they should bo
 <img src="https://i.gyazo.com/5f4f0a0941def2c95cc76e27cf79897b.png" height="80%" width="80%" alt="tcpdump"/>
 
 Add an agent to your Wazuh manager:
-<img src="https://i.gyazo.com/6bbd029d23d2086d5c48ba45ec007ef6.png" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/52fe09d937f2cdb0a07ac7c9462e90ab.png" height="80%" width="80%" alt="tcpdump"/>
 
 
 <p align="center">
