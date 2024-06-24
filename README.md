@@ -36,6 +36,13 @@ Once both Wazzuh and theHive have been configured on your server, they should bo
 Add an agent to your Wazuh manager:
 <img src="https://i.gyazo.com/52fe09d937f2cdb0a07ac7c9462e90ab.png" height="80%" width="80%" alt="tcpdump"/>
 
+Install mimikatz
+
+Configure osec configurations to log sysmon logs
+Check Wazuh dashboard to see if it successfully archived any mimikatz events:
+<img src="https://i.gyazo.com/4ae55fb11ce83e0aafd3240f1f3a7b2b.png" height="80%" width="80%" alt="tcpdump"/>
+
+Test to 
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
