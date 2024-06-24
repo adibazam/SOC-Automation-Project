@@ -43,9 +43,11 @@ Configure osec configurations to log sysmon logs
 Check Wazuh dashboard to see if it successfully archived any mimikatz events: 
 <img src="https://i.gyazo.com/4ae55fb11ce83e0aafd3240f1f3a7b2b.png" height="80%" width="80%" alt="tcpdump"/>
 
-Create a custom rule to detect mimikatz on Wazuh
+Create a custom rule to detect any original file name change for mimikatz on Wazuh
 <img src="https://i.gyazo.com/c78656e40792f2b6ea84b5c51a15764e.png" height="80%" width="80%" alt="tcpdump"/>
 
+Rename mimikatz.exe file to "youareawesome" and check Wazuh dashboard to see if any alert has successfully triggered.
+<img src="https://i.gyazo.com/7d4ada4438f55640cdb5a49c46786bfa.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
