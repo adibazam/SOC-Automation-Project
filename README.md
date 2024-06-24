@@ -47,7 +47,7 @@ Create a custom rule to detect any original file name change for mimikatz on Waz
 <img src="https://i.gyazo.com/c78656e40792f2b6ea84b5c51a15764e.png" height="80%" width="80%" alt="tcpdump"/>
 
 Rename mimikatz.exe file to "youareawesome" and check Wazuh dashboard to see if any alert has successfully triggered.
-<img src="https://i.gyazo.com/7d4ada4438f55640cdb5a49c46786bfa.png" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/c23269e99094178cc8be17a25dabef78.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
