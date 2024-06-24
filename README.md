@@ -38,7 +38,7 @@ Add an agent to your Wazuh manager:
 
 Install mimikatz
 
-Configure osec configurations to log sysmon logs
+Configure osec configurations to ingest sysmon logs
 
 Check Wazuh dashboard to see if it successfully archived any mimikatz events: 
 <img src="https://i.gyazo.com/4ae55fb11ce83e0aafd3240f1f3a7b2b.png" height="80%" width="80%" alt="tcpdump"/>
