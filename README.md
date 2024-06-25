@@ -58,7 +58,7 @@ Run the "yourawesome.exe" from your mimikatz folder and run a scan on Workflow. 
 
 Connect virustotal to Shuffle via API.
 Automate sending hash values over to virustotal to check the reputation scores.
-<img src="https://i.gyazo.com/75f6ef218ab175099191c2f601103278.png" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/ce185a93cfd79c51d0a06bb323988dfd.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
