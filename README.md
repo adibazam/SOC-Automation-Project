@@ -52,10 +52,13 @@ Rename mimikatz.exe file to "youareawesome" and check Wazuh dashboard to see if 
 Create a shuffler.io account and connect our wazuh manager to shuffler via the custom HTTP input trigger webhook URL.
 <img src="https://i.gyazo.com/a5cef66f2837c340d0ac2ae7f17aab21.png" height="80%" width="80%" alt="tcpdump"/>
 
-Run the "yourawesome.exe" from your mimikatz folder and run a scan on Workflow. After that, change the return value for the hashes and parse out only the hash values.
+Run the "yourawesome.exe" from your mimikatz folder and run a scan on Workflow. After that, change the return value for the hashes and parse out only the hash values using regex
 <img src="https://i.gyazo.com/4826eae86d8cb37d0f40c61e71d2bc9a.png" height="80%" width="80%" alt="tcpdump"/>
 <img src="https://i.gyazo.com/d9c5eb51a3f66bfbfd3b89d913199b49.png" height="80%" width="80%" alt="tcpdump"/>
 
+Connect virustotal to Shuffle via API.
+Automate sending hash values over to virustotal to check the reputation scores.
+<img src="https://i.gyazo.com/75f6ef218ab175099191c2f601103278.png" height="80%" width="80%" alt="tcpdump"/>
 
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
