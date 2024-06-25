@@ -49,8 +49,12 @@ Create a custom rule to detect any original file name change for mimikatz on Waz
 Rename mimikatz.exe file to "youareawesome" and check Wazuh dashboard to see if any alert has successfully triggered.
 <img src="https://i.gyazo.com/c23269e99094178cc8be17a25dabef78.png" height="80%" width="80%" alt="tcpdump"/>
 
-Create a shuffler.io account and connect our wazuh manager to shuffler with the API webhook.
+Create a shuffler.io account and connect our wazuh manager to shuffler via the custom HTTP input trigger webhook URL.
 <img src="https://i.gyazo.com/a5cef66f2837c340d0ac2ae7f17aab21.png" height="80%" width="80%" alt="tcpdump"/>
+
+Run the "yourawesome.exe" from your mimikatz folder and run a scan on Workflow. After that, change the return value for the hashes and parse out only the hash values.
+<img src="https://i.gyazo.com/4826eae86d8cb37d0f40c61e71d2bc9a.png" height="80%" width="80%" alt="tcpdump"/>
+<img src="https://i.gyazo.com/d9c5eb51a3f66bfbfd3b89d913199b49.png" height="80%" width="80%" alt="tcpdump"/>
 
 
 <p align="center">
