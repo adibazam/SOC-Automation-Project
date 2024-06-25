@@ -49,6 +49,10 @@ Create a custom rule to detect any original file name change for mimikatz on Waz
 Rename mimikatz.exe file to "youareawesome" and check Wazuh dashboard to see if any alert has successfully triggered.
 <img src="https://i.gyazo.com/c23269e99094178cc8be17a25dabef78.png" height="80%" width="80%" alt="tcpdump"/>
 
+Create a shuffler.io account and connect our wazuh manager to shuffler with the API webhook.
+<img src="https://i.gyazo.com/a5cef66f2837c340d0ac2ae7f17aab21.png" height="80%" width="80%" alt="tcpdump"/>
+
+
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
 <img src="https://i.gyazo.com/e3fe33d87d17b64ce5286b496bbeaa69.png" height="80%" width="80%" alt="tcpdump"/>
