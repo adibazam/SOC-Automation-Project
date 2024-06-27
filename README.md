@@ -1,6 +1,6 @@
 <h1>SOC-Automation-Project</h1>
 
-<h2>Objective</h2>
+<p align="center"><h2>Objective</h2>
 The objective of this project is to start from nothing to creating a fully integrated SOAR solution incorporating Wazuh & TheHive for case management.
 The SOC Automation Project aims to enhance cybersecurity operations by automating threat detection, incident response, and security monitoring processes. 
 <br />
