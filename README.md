@@ -78,7 +78,6 @@ Re-Run the workflow on Shuffler.io to see if the alert was created on theHive
 <img src="https://i.gyazo.com/1de707a0fbae094b524cdc4f5ff82591.png" height="80%" width="80%" alt="tcpdump"/>
 
 Add the email app and connect it to your workflow so alerts can be sent to your email as well:
-<img src="https://i.gyazo.com/58b32a922d571635a3b5636ee471c5ab.png" height="80%" width="80%" alt="tcpdump"/>
 <img src="https://i.gyazo.com/e3238b13ba32d94dec796a8eb348ea38.png" height="80%" width="80%" alt="tcpdump"/>
 
 
