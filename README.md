@@ -10,16 +10,16 @@ The SOC Automation Project aims to enhance cybersecurity operations by automatin
 
 <h2>Tools Used</h2>
 -<b>Windows VM: Ensured coverage and monitoring in Windows environments.</b><br/>
--<b>Sysmon: Provided detailed monitoring of system activity.</b>
--<b>Wazuh: Open-source security monitoring for event analysis and compliance management.</b>
--<b>TheHive: For case management and collaboration in incident response.</b>
--<b>DigitalOcean: Cloud infrastructure provider for hosting the environment.</b>
--<b>Mimikatz: Security tool used for testing and validating detection capabilities.</b>
--<b>OSSEC: Integrated for log analysis and intrusion detection.</b>
--<b>Shuffle: Automation tool for integrating workflows and triggering responses.</b>
--<b>VirusTotal: API integration for automated threat intelligence and reputation checks.</b>
--<b>Windows VM: For ensuring coverage and monitoring in Windows environments.</b>
--<b>Wazuh: Open-source security monitoring for event analysis and compliance management.</b>
+-<b>Sysmon: Provided detailed monitoring of system activity.</b></b><br/>
+-<b>Wazuh: Open-source security monitoring for event analysis and compliance management.</b></b><br/>
+-<b>TheHive: For case management and collaboration in incident response.</b></b><br/>
+-<b>DigitalOcean: Cloud infrastructure provider for hosting the environment.</b></b><br/>
+-<b>Mimikatz: Security tool used for testing and validating detection capabilities.</b></b><br/>
+-<b>OSSEC: Integrated for log analysis and intrusion detection.</b></b><br/>
+-<b>Shuffle: Automation tool for integrating workflows and triggering responses.</b></b><br/>
+-<b>VirusTotal: API integration for automated threat intelligence and reputation checks.</b></b><br/>
+-<b>Windows VM: For ensuring coverage and monitoring in Windows environments.</b></b><br/>
+-<b>Wazuh: Open-source security monitoring for event analysis and compliance management.</b></b><br/>
 
 <h2>Steps</h2>
 -Installing and implementing a cloud environment (Digital Ocean)
