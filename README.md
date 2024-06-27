@@ -64,6 +64,9 @@ Automate sending hash values over to virustotal to check the reputation scores.
 Create accounts on theHive dashboard and connect the API to Shuffler.io
 Modify cloud firewall to allow all IP's coming inbound into port 9000 to allow us to test our automation.
 
+How workflow should be looking at this point:
+<img src="https://i.gyazo.com/85b2520173b5282ed374046606aaf613.png" height="80%" width="80%" alt="tcpdump"/>
+
 Re-Run the workflow on Shuffler.io to see if the alert was created on theHive
 <img src="https://i.gyazo.com/1de707a0fbae094b524cdc4f5ff82591.png" height="80%" width="80%" alt="tcpdump"/>
 
