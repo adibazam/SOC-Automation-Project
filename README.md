@@ -9,19 +9,17 @@ The SOC Automation Project aims to enhance cybersecurity operations by automatin
 <img src="https://i.gyazo.com/101d18e496e016840f069d9029aaa1fe.png" height="80%" width="80%" alt="tcpdump"/>
 
 <h2>Tools Used</h2>
-<b>Windows VM: Ensured coverage and monitoring in Windows environments.</b>
-Sysmon: Provided detailed monitoring of system activity.
-Wazuh: Open-source security monitoring for event analysis and compliance management.
-TheHive: For case management and collaboration in incident response.
-Wireshark: Network protocol analyzer for packet inspection and analysis.
-DigitalOcean: Cloud infrastructure provider for hosting the environment.
-Mimikatz: Security tool used for testing and validating detection capabilities.
-OSSEC: Integrated for log analysis and intrusion detection.
-Shuffle: Automation tool for integrating workflows and triggering responses.
-VirusTotal: API integration for automated threat intelligence and reputation checks.
-Windows VM: For ensuring coverage and monitoring in Windows environments.
-Sysmon
-Wazuh: Open-source security monitoring for event analysis and compliance management.
+-<b>Windows VM: Ensured coverage and monitoring in Windows environments.</b>
+-<b>Sysmon: Provided detailed monitoring of system activity.</b>
+-<b>Wazuh: Open-source security monitoring for event analysis and compliance management.</b>
+-<b>TheHive: For case management and collaboration in incident response.</b>
+-<b>DigitalOcean: Cloud infrastructure provider for hosting the environment.</b>
+-<b>Mimikatz: Security tool used for testing and validating detection capabilities.</b>
+-<b>OSSEC: Integrated for log analysis and intrusion detection.</b>
+-<b>Shuffle: Automation tool for integrating workflows and triggering responses.</b>
+-<b>VirusTotal: API integration for automated threat intelligence and reputation checks.</b>
+-<b>Windows VM: For ensuring coverage and monitoring in Windows environments.</b>
+-<b>Wazuh: Open-source security monitoring for event analysis and compliance management.</b>
 
 <h2>Steps</h2>
 -Installing and implementing a cloud environment (Digital Ocean)
