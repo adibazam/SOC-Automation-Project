@@ -61,6 +61,13 @@ Automate sending hash values over to virustotal to check the reputation scores.
 <img src="https://i.gyazo.com/ce185a93cfd79c51d0a06bb323988dfd.png" height="80%" width="80%" alt="tcpdump"/>
 <img src="https://i.gyazo.com/a5bf92073153a568da28a52a05aafc74.png" height="80%" width="80%" alt="tcpdump"/>
 
+Create accounts on theHive dashboard and connect the API to Shuffler.io
+Modify cloud firewall to allow all IP's coming inbound into port 9000 to allow us to test our automation.
+
+Re-Run the workflow on Shuffler.io to see if the alert was created on theHive
+<img src="https://i.gyazo.com/1de707a0fbae094b524cdc4f5ff82591.png" height="80%" width="80%" alt="tcpdump"/>
+
+
 <p align="center">
 Task 1: Filter the data for traffic associated with a specific IP address of "142.250.1.139" and inspect the packet as well. What is the protocol of the first packet in the list where the info column starts with the words 'Echo (ping) request'?<br/>
 <img src="https://i.gyazo.com/e3fe33d87d17b64ce5286b496bbeaa69.png" height="80%" width="80%" alt="tcpdump"/>
