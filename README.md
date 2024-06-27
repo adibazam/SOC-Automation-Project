@@ -1,13 +1,24 @@
 <h1>SOC-Automation-Project</h1>
 
 <h2>Objective</h2>
-The objective of this project is to start from nothing to creating a fully integrated SOAR solution incorporating Wazuh & TheHive for case management. 
+The objective of this project is to start from nothing to creating a fully integrated SOAR solution incorporating Wazuh & TheHive for case management.
+The SOC Automation Project aims to enhance cybersecurity operations by automating threat detection, incident response, and security monitoring processes. 
 <br />
 
 <h2>Visual Representation of the SOC Automation Lab Workflow</h2>
 <img src="https://i.gyazo.com/101d18e496e016840f069d9029aaa1fe.png" height="80%" width="80%" alt="tcpdump"/>
 
 <h2>Tools Used</h2>
+Windows VM: Ensured coverage and monitoring in Windows environments.
+Sysmon: Provided detailed monitoring of system activity.
+Wazuh: Open-source security monitoring for event analysis and compliance management.
+TheHive: For case management and collaboration in incident response.
+Wireshark: Network protocol analyzer for packet inspection and analysis.
+DigitalOcean: Cloud infrastructure provider for hosting the environment.
+Mimikatz: Security tool used for testing and validating detection capabilities.
+OSSEC: Integrated for log analysis and intrusion detection.
+Shuffle: Automation tool for integrating workflows and triggering responses.
+VirusTotal: API integration for automated threat intelligence and reputation checks.
 Windows VM: For ensuring coverage and monitoring in Windows environments.
 Sysmon
 Wazuh: Open-source security monitoring for event analysis and compliance management.
