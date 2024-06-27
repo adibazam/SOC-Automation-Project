@@ -1,4 +1,4 @@
-<p align="center"><h1>SOC-Automation-Project</h1>
+<h1>SOC-Automation-Project</h1>
 
 <h2>Objective</h2>
 The objective of this project is to start from nothing to creating a fully integrated SOAR solution incorporating Wazuh & TheHive for case management.
