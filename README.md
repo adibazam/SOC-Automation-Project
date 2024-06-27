@@ -9,7 +9,7 @@ The SOC Automation Project aims to enhance cybersecurity operations by automatin
 <img src="https://i.gyazo.com/101d18e496e016840f069d9029aaa1fe.png" height="80%" width="80%" alt="tcpdump"/>
 
 <h2>Tools Used</h2>
--<b>Windows VM: Ensured coverage and monitoring in Windows environments.</b>
+-<b>Windows VM: Ensured coverage and monitoring in Windows environments.</b><br/>
 -<b>Sysmon: Provided detailed monitoring of system activity.</b>
 -<b>Wazuh: Open-source security monitoring for event analysis and compliance management.</b>
 -<b>TheHive: For case management and collaboration in incident response.</b>
